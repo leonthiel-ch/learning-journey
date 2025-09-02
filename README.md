@@ -9,4 +9,4 @@ Week 1:
 - Day 3: Python Control Flow
 - Day 4: Functions & Modules
 - Day 5: Python OOP Crash
-- Weekly Project: Guess
+- Weekly Project: Guess the Number Game
